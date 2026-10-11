@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Cichoń</title>
+  <desc id="desc">DevOps, platform engineering and cloud infrastructure. Infrastructure, delivery and reliability.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#172b42"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#94a3b8" opacity=".15"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect x="58" y="61" width="44" height="4" rx="2" fill="#38bdf8"/>
+  <text x="58" y="112" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">DEVOPS / PLATFORM ENGINEERING</text>
+  <text x="55" y="174" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">Gabriel Cichoń</text>
+  <text x="58" y="218" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="19">Infrastructure. Delivery. Reliability.</text>
+  <g stroke="#38bdf8" stroke-width="1.5" fill="none" opacity=".5">
+    <path d="M830 95h118v110H830z"/>
+    <path d="M948 150h60M830 150h-58M889 95V57M889 205v38"/>
+    <circle cx="758" cy="150" r="14"/>
+    <circle cx="1022" cy="150" r="14"/>
+    <circle cx="889" cy="43" r="14"/>
+    <circle cx="889" cy="257" r="14"/>
+  </g>
+  <g fill="#1e3a50" stroke="#38bdf8" stroke-opacity=".65">
+    <rect x="850" y="117" width="78" height="24" rx="5"/>
+    <rect x="850" y="151" width="78" height="24" rx="5"/>
+  </g>
+  <g fill="#7dd3fc">
+    <circle cx="862" cy="129" r="3"/>
+    <circle cx="862" cy="163" r="3"/>
+  </g>
+  <g stroke="#94a3b8" stroke-width="2" stroke-linecap="round">
+    <path d="M877 129h38M877 163h38"/>
+  </g>
+</svg>
